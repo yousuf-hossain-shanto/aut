@@ -1,0 +1,21 @@
+default = {
+	colupse_align 		  = left,
+	colupse_bg    		  = #E50000,
+	colupse_style 		  = plus-minus,
+	colupse_radius		  = no,
+	title_content_bg      = no
+}
+theme 1 = {
+	colupse_align 		  = right,
+	colupse_bg    		  = #E50000,
+	colupse_style 		  = plus-minus,
+	colupse_radius		  = no,
+	title_content_bg      = no
+}
+theme 2 = {
+	colupse_align 		  = right,
+	colupse_bg    		  = #E50000,
+	colupse_style 		  = plus-minus,
+	colupse_radius		  = no,
+	title_content_bg      = no
+}
